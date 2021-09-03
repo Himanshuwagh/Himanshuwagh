@@ -1,5 +1,5 @@
 Hi there! I'm Himanshu Wagh                 
-![Linkedin](https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo.png)(https://www.linkedin.com/in/himanshu-wagh-82ba96141/)      
+![https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo.png](https://www.linkedin.com/in/himanshu-wagh-82ba96141/)      
 
 
 I'm a Machine Learning, and Data Scientist Student !!
