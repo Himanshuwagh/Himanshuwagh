@@ -6,11 +6,12 @@
 <a href="https://kaggle.com/himanshuwagh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="himanshuwagh" height="20" width="20" /></a> &nbsp;
 <a href="https://medium.com/@waghhimanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@waghhimanshu" height="20" width="20" /></a>
 
+
+
+<h3 align="left">
 - 🔭 I’m currently working on **Image classification deployment**
 
-- 🌱 I’m currently learning **NLP**
-
-<h3 align="left">Connect with me:</h3>
+- 🌱 I’m currently learning **NLP**</h3>
 <p align="left">
 
 
