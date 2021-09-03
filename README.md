@@ -1,8 +1,9 @@
 Hi there! I'm Himanshu Wagh
-Linkedin   medium_url
+
 
 I'm a Machine Learning, and Data Scientist Student !!
-🌱 I’m currently learning everything 🤣
+
+🌱 I’m currently learning NLP.
 
 ⚡ Hobbies: I love to watch intellectual stuff and Cricket.
 
