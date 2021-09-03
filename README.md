@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshu !!</h1>
-<h3 align='center'><a href="https://linkedin.com/in/(https://www.linkedin.com/in/himanshu-wagh-82ba96141/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="(https://www.linkedin.com/in/himanshu-wagh-82ba96141/" height="20" width="20" /></a><br><br>
-<a href="https://kaggle.com/himanshuwagh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="himanshuwagh" height="20" width="20" /></a><br><br>
+<h3 align='center'><a href="https://linkedin.com/in/(https://www.linkedin.com/in/himanshu-wagh-82ba96141/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="(https://www.linkedin.com/in/himanshu-wagh-82ba96141/" height="20" width="20" /></a> &nbsp;
+<a href="https://kaggle.com/himanshuwagh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="himanshuwagh" height="20" width="20" /></a> &nbsp;
 <a href="https://medium.com/@waghhimanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@waghhimanshu" height="20" width="20" /></a>
 
 <h3 align="center">A passionate Machine learning and deep learning developer.</h3>
