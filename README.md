@@ -10,8 +10,10 @@
 
 <h3 align="left">
 - 🔭 I’m currently working on **Image classification deployment**
+  
 
 - 🌱 I’m currently learning **NLP**</h3>
+  
 <p align="left">
 
 
