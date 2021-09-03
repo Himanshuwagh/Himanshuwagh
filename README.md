@@ -8,7 +8,7 @@
 
 
 <h3 align="left">
-- 🔭 I’m currently working on Image classification deployment
+- 🔭 I’m currently working on Image classification deployment <br>
   
 
 - 🌱 I’m currently learning NLP
