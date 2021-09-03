@@ -1,4 +1,5 @@
 Hi there! I'm Himanshu Wagh
+[Linkedin](https://www.linkedin.com/in/himanshu-wagh-82ba96141/)
 
 
 I'm a Machine Learning, and Data Scientist Student !!
