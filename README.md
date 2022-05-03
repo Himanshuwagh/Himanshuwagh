@@ -8,10 +8,11 @@
 
 
 <h3 align="left"> </h3>
-- 🔭 I’m currently working on English To Marathi Lnaguage translation Project <br>
+  
+- 🔭 I’m currently working on English To Marathi Language translation Project <br>
   
 
-- 🌱 I’m currently learning NLP
+- 🌱 Have worked on Machine learning, computer vision, deep learning and Neural Language Processing projects
  
   
 <p align="left">
