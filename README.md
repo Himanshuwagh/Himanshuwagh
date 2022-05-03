@@ -8,7 +8,7 @@
 
 
 <h3 align="left"> </h3>
-- 🔭 I’m currently working on Image classification deployment <br>
+- 🔭 I’m currently working on English To Marathi Lnaguage translation Project <br>
   
 
 - 🌱 I’m currently learning NLP
