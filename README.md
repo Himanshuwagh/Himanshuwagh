@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Himanshu !!</h1>
+<h1 align="center">Hi, I'm Himanshu !!</h1>
 
 
 <h3 align="center">A passionate Machine learning and deep learning developer.</h3>
