@@ -9,10 +9,10 @@
 
 <h3 align="left"> </h3>
   
-- 🔭 I’m currently working and researching about Image creation from text projects <br>
+- I’m currently working and researching about Image creation from text projects <br>
   
 
-- 🌱 Have worked on Machine learning, computer vision, deep learning and Neural Language Processing
+- Have worked on Machine learning, computer vision, deep learning and Neural Language Processing
  
   
 <p align="left">
