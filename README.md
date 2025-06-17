@@ -23,16 +23,15 @@ I'm a Machine Learning and Full Stack Developer passionate about applying AI to 
 
 ---
 
-### 🔧 Tech Stack
+## 🛠️ Tech Stack
 
-**Languages:** Python, C++, SQL  
-**ML/AI:** PyTorch, TensorFlow, Random Forest, Model Optimization  
-**Web/Full Stack:** Flask, FastAPI, React, Node.js, Plotly Dash  
-**Infra & DevOps:** Docker, GitHub Actions, Jenkins, Terraform  
-**Cloud:** AWS (EC2, S3, Lambda), GCP  
-**Databases:** PostgreSQL, Snowflake, Pinecone (Vector DB)  
-**MLOps Tools:** MLflow, SageMaker, LangChain
-
+- **👨‍💻 Languages:** Python, C++, SQL  
+- **🧠 ML/AI:** PyTorch, TensorFlow, Random Forest, Model Optimization  
+- **🌐 Web/Full Stack:** Flask, FastAPI, React, Node.js, Plotly Dash  
+- **⚙️ Infra & DevOps:** Docker, GitHub Actions, Jenkins, Terraform  
+- **☁️ Cloud:** AWS (EC2, S3, Lambda), GCP  
+- **🗄️ Databases:** PostgreSQL, Snowflake, Pinecone (Vector DB)  
+- **🚀 MLOps Tools:** MLflow, SageMaker, LangChain
 ---
 <!--
 ## 📌 Featured Projects
@@ -56,9 +55,9 @@ I'm a Machine Learning and Full Stack Developer passionate about applying AI to 
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 💻 [Portfolio Website](https://yourusername.github.io)
-- 📨 hwagh@mtu.edu
+- 💼 [LinkedIn](https://www.linkedin.com/in/himanshu-wagh-82ba96141/)
+- 💻 [Portfolio Website](https://himanshuwagh.github.io/)
+- 📨 waghhimanshu@gmail.com
 
 ---
 
